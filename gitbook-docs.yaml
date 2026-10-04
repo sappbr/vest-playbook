@@ -1,0 +1,8 @@
+site:
+  structure:
+    - type: space
+      key: playbook
+      title: Vest playbook
+      path: /
+      content:
+        directory: .
