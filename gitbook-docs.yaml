@@ -1,4 +1,5 @@
 site:
+  title: Vest playbook
   structure:
     - type: space
       key: playbook
